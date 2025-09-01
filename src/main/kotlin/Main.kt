@@ -5,7 +5,7 @@ fun main() {
     val reverseString = reverseString(inputString)
     if (reverseString == inputString)
     println("this is a palindrome")
-    else  println("The reversed string is: ${reverseString(inputString)}")
+    else  println("The reversed string is: $reverseString")
 
 }
 
